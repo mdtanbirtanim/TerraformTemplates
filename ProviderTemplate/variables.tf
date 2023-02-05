@@ -19,6 +19,6 @@ variable "separator" {
 }
 
 variable "length" {
-  type    = string
+  type    = number
   default = ""
 }
